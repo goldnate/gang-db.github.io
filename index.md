@@ -22,4 +22,8 @@ RESOLVED that the American Federation of Teachers calls on municipal and state g
 
 [Tracked and Targeted Report](http://erasethedatabase.com/wp-content/uploads/2018/02/Tracked-Targeted-0217.pdf)
 
+[*New York Times* article on use of L.A.'s gang database to deport](https://www.nytimes.com/2017/01/10/us/gang-database-criticized-for-denying-due-process-may-be-used-for-deportations.html)
+
 [Boston Gang Database article](https://theappeal.org/from-gang-allegations-to-deportation-how-boston-is-putting-its-immigrant-youth-in-harms-way-de3b0edc9327/) from *The Appeal*
+
+[Background on the case of Wilmer Catal&aacute;n](http://organizedcommunities.org/wilmerlawsuit/) from Organized Communities Against Deportation, an AROS affiliate.
