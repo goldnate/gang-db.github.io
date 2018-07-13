@@ -26,6 +26,6 @@ RESOLVED that the American Federation of Teachers calls on municipal and state g
 
 [Boston Gang Database article](https://theappeal.org/from-gang-allegations-to-deportation-how-boston-is-putting-its-immigrant-youth-in-harms-way-de3b0edc9327/) from *The Appeal*
 
-[Background on the case of Wilmer Catal&aacute;n](http://organizedcommunities.org/wilmerlawsuit/), who was apprehended while dropping his children off at school, from Organized Communities Against Deportation, an AROS affiliate.
+[Background on the case of Wilmer Catal&aacute;n](http://organizedcommunities.org/wilmerlawsuit/), who was apprehended while dropping his children off at school, from Organized Communities Against Deportation.
 
 [Article on Gang Databases](https://www.acslaw.org/acsblog/the-trouble-with-so-called-%E2%80%9Cgang-databases%E2%80%9D-no-refuge-in-the-%E2%80%9Csanctuary%E2%80%9D) from the American Constitution Society
