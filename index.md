@@ -4,7 +4,7 @@ permalink: /
 ---
 ## Immigrants and Gang Databases Amendment
 
-Below is language and background links on an amendment to Resolution #20 that Chicago would like to add. I'm Nate Goldbaum and I'm spearheading this. You can call or text me at 773-490-5996 top discuss it.
+Below is language and background links on an amendment to Resolution #20 that Chicago would like to add. I'm Nate Goldbaum and I'm spearheading this. You can call or text me at 773-490-5996 to discuss it.
 
 ### Amendment Text
 
