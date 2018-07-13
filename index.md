@@ -14,7 +14,7 @@ WHEREAS there is evidence that individuals as young as 18 months old have been i
 
 ...
 
-RESOLVED that the American Federation of Teachers calls upon 
+RESOLVED that the American Federation of Teachers calls municipal and state governments and law enforcement agencies to cease the use of "gang databases" with a low threshold for inclusion and for the federal government to cease using inclusion in such databases as a justification for apprehension and deportation. 
 
 ### Background Information Links
 
