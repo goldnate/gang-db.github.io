@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: Immigrants and Gang Databases Amdendment
 description: A draft amendment to an AFT Resolution against attacks on immigrants.
-logo: /assets/img/header.jpg
+logo: /assets/img/dont-deport.jpg
 plugins:
   - jekyll-seo-tag
 twitter:
