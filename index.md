@@ -4,6 +4,8 @@ permalink: /
 ---
 ## Immigrants and Gang Databases Amendment
 
+Below is language and background links on an amendment to Resolution #20 that Chicago would like to add. I'm Nate Goldbaum and I'm spearheading this. You can call or text me at 773-490-5996 top discuss it.
+
 ### Amendment Text
 
 WHEREAS The Trump administration has used the terms "criminals" and "gang members" to demonize immigrants and justify mass deportations to the public and the Immigration and Customs Enforcement (ICE) Agency has used contact with law enforcement and the label of "gang member" to target individuals for apprehension and deportation; 
