@@ -1,60 +1,15 @@
 ---
-title: Red Hootenanny Song Index
+title: Immigrants and Gang Databases Amendment
 permalink: /
 ---
-## Songs for Socialists
+## Immigrants and Gang Databases Amendment
 
-**Raise Your Voice**
+### Amendment Text
 
-> Let's keep singing these songs (and more) for the rest of our days!
+### Background Information Links
 
-<div class="alphabet">&nbsp;&thinsp;</div>
+[*Chicago Union Teacher* article on Chicago's gang database](https://www.ctunet.com/media/chicago-union-teacher/2018-06/chicagos-gang-database-has-no-place-in-our-schools)
 
-[#](#)
-[A](#A)
-[B](#B)
-[C](#C)
-[D](#D)
-[E](#E)
-[F](#F)
-[G](#G)
-[H](#H)
-[I](#I)
-[J](#J)
-[K](#K)
-[L](#L)
-[M](#M)
-[N](#N)
-[O](#O)
-[P](#P)
-[Q](#Q)
-[R](#R)
-[S](#S)
-[T](#T)
-[U](#U)
-[V](#V)
-[W](#W)
-[X](#X)
-[Y](#Y)
-[Z](#Z)
+[Tracked and Targeted Report](http://erasethedatabase.com/wp-content/uploads/2018/02/Tracked-Targeted-0217.pdf)
 
-{% assign sortedPages = site.pages | sort: page.title %}  
-{% assign indexLetter = '' %}
-{% for page in sortedPages %}  
-   {% if page.url == '/' %}{% else %}
-     {% assign firstLetter1 = page.title | capitalize  %}
-     {% assign firstLetter = {{firstLetter1}} | truncate: 1, "" %}
-     {% if {{firstLetter}} != {{indexLetter}} %}
-       {% assign indexLetter1 = page.title | capitalize  %}
-       {% assign indexLetter = {{indexLetter1}} | truncate: 1, "" %}
-
-<h3 id="{{indexLetter}}"> {{ indexLetter }} </h3>
-
-     {% endif %}
-
-[{{ page.title }}]({{ site.baseurl }}{{ page.url }})
-    
-  {%endif%}  
-{% endfor %}
-
-<style>h3:last-of-type {font-size:1px; color:rgba(255,255,255,0); margin-top: 56px;}h3:last-of-type::before{color:#444444; font-size: 32px; content:"Don't see the song you want to sing?"}</style>
+[Boston Gang Database article](https://theappeal.org/from-gang-allegations-to-deportation-how-boston-is-putting-its-immigrant-youth-in-harms-way-de3b0edc9327/) from *The Appeal*
