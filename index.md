@@ -20,7 +20,7 @@ RESOLVED that the American Federation of Teachers calls on municipal and state g
 
 [*Chicago Union Teacher* article on Chicago's gang database](https://www.ctunet.com/media/chicago-union-teacher/2018-06/chicagos-gang-database-has-no-place-in-our-schools)
 
-[Tracked and Targeted Report](http://erasethedatabase.com/wp-content/uploads/2018/02/Tracked-Targeted-0217.pdf)
+Download the [Tracked and Targeted Report](http://erasethedatabase.com/wp-content/uploads/2018/02/Tracked-Targeted-0217.pdf) in PDF format.
 
 [*New York Times* article on use of L.A.'s gang database to deport](https://www.nytimes.com/2017/01/10/us/gang-database-criticized-for-denying-due-process-may-be-used-for-deportations.html)
 
